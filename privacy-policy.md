@@ -4,10 +4,7 @@ Ns. Novita Wulan Sari, M.Kep built the MEFuKo app as a Free app. This SERVICE is
 
 ### Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to MEFuKo (MMSE Instrument for Cognitive Function). The MMSE is an instrument used to measure a person's cognitive level. It is used to detect cognitive impairments such as problems with thinking, communication, comprehension, and memory. The components of this MMSE instrument consist of measurements of language level, attention, memory, orientation, and visuospatial abilities.. The information that I request will be retained on your device and is not collected by me in any way.
-
-The app does use third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app
-
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way. The app does use third-party services that may collect information used to identify you. The app does use third-party services that may collect information used to identify you. Link to the privacy policy of third-party service providers used by the app
 - Google Play Services
 
 ### Log Data
